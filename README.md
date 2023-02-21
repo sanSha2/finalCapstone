@@ -37,11 +37,11 @@ Created a multipage website using HTML and CSS.
 
 [How It Looks](#howitlooks)
 For your ease I have provided screenshots of the website.
-![Index Page](screenshots/indexpage.jpg | width=100)
-![Cricket Page](screenshots/cricket.jpg | width=100)
-![Hospital Page](screenshots/hospital1.jpg | width=100)
-![Hospital Page](screenshots/hospital2.jpg | width=100)
-![Hospital Page](screenshots/hospital3.jpg | width=100)
+![Index Page](screenshots/indexpage.jpg | width=25)
+![Cricket Page](screenshots/cricket.jpg | width=25)
+![Hospital Page](screenshots/hospital1.jpg | width=25)
+![Hospital Page](screenshots/hospital2.jpg | width=25)
+![Hospital Page](screenshots/hospital3.jpg | width=25)
 
 [Credits](#credits)
 This Game is made by me [SanSha](https://github.com/sanSha2)
