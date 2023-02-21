@@ -50,11 +50,11 @@ For your ease I have provided screenshots of the website.
 
 <img src="screenshots/hospital1.jpg" width=50% alt="Hospital Page">
 
-### Cancer Hospital Peshawar
+### Cancer Hospital Peshawar and Karachi
 
 <img src="screenshots/hospital2.jpg" width=50% alt="Hospital Page">
 
-### Cancer Hospital Karachi
+### Cancer Hospital Page showing table expamle
 
 <img src="screenshots/hospital3.jpg" width=50% alt="Hospital Page">
 
