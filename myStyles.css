@@ -1,0 +1,104 @@
+/*
+The background colour of the entire page
+*/
+
+body {
+  background-color: rgb(214, 213, 213);
+  color: black;
+  padding: 0.1vw;
+  font-family: sans-serif;
+}
+/*
+all the headings appear in italics, and change their font family to Times New Roman
+*/
+h1,
+h2,
+h3 {
+  font-family: "Times New Roman";
+}
+
+/*
+border of image change to 2px
+*/
+img {
+  border: 0.1vw solid #01170e;
+  padding: 0.1vw;
+}
+/*
+
+*/
+#IKqoute {
+  padding: 0.2vw;
+}
+
+/*
+allign picture in middle
+*/
+header {
+  text-align: center;
+  border: 0.2vw solid #1f2324;
+}
+/*
+The nav bar should be centred 
+*/
+nav {
+  text-align: center;
+}
+/*
+different background for links
+*/
+a {
+  background-color: #c7c8c8;
+  color: black;
+  padding: 0.1vw;
+  font-family: sans-serif;
+}
+/*
+different style for inline links
+*/
+.inTextLink {
+  background-color: rgb(214, 213, 213);
+  padding: none;
+}
+/*
+table styling
+*/
+table {
+  border: black 0.2vw solid;
+}
+/*
+table row styling
+*/
+tr {
+  border: black 0.2vw solid;
+}
+/*
+table column styling
+*/
+td {
+  border: black 0.2vw solid;
+}
+/*
+First row of table
+*/
+.firstRow {
+  font-weight: bold;
+}
+/*
+Button with no functionality
+*/
+button {
+  text-align: right;
+}
+/*
+aside extra link for charity
+*/
+aside {
+  text-align: right;
+}
+/*
+bottom of the page
+*/
+footer {
+  font-family: "Times New Roman";
+}
