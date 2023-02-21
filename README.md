@@ -38,11 +38,25 @@ Created a multipage website using HTML and CSS.
 [How It Looks](#howitlooks)
 For your ease I have provided screenshots of the website.
 
+### Index
+
 <img src="screenshots/indexpage.jpg" width=50% alt="Index Page">
-![Cricket Page](screenshots/cricket.jpg | width=25)
-![Hospital Page](screenshots/hospital1.jpg | width=25)
-![Hospital Page](screenshots/hospital2.jpg | width=25)
-![Hospital Page](screenshots/hospital3.jpg | width=25)
+
+### Cricket Achievement
+
+<img src="screenshots/cricket.jpg" width=50% alt="Cricket Page">
+
+### Cancer Hospital Lahore
+
+<img src="screenshots/hospital1.jpg" width=50% alt="Hospital Page">
+
+### Cancer Hospital Peshawar
+
+<img src="screenshots/hospital2.jpg" width=50% alt="Hospital Page">
+
+### Cancer Hospital Karachi
+
+<img src="screenshots/hospital3.jpg" width=50% alt="Hospital Page">
 
 [Credits](#credits)
 This Game is made by me [SanSha](https://github.com/sanSha2)
