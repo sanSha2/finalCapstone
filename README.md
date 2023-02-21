@@ -37,7 +37,7 @@ Created a multipage website using HTML and CSS.
 
 [How It Looks](#howitlooks)
 For your ease I have provided screenshots of the website.
-![Index Page]<img src="screenshots/indexpage.jpg" width=25%)
+<img src="screenshots/indexpage.jpg" width=25%)
 ![Cricket Page](screenshots/cricket.jpg | width=25)
 ![Hospital Page](screenshots/hospital1.jpg | width=25)
 ![Hospital Page](screenshots/hospital2.jpg | width=25)
