@@ -37,7 +37,8 @@ Created a multipage website using HTML and CSS.
 
 [How It Looks](#howitlooks)
 For your ease I have provided screenshots of the website.
-![Index Page](indexpage.jpg)
+![Index Page](screenshots/indexpage.jpg)
 
 [Credits](#credits)
 This Game is made by me [SanSha](https://github.com/sanSha2)
+x
